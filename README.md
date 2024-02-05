@@ -1,1 +1,1 @@
-# UoL_Object_oriented_programming
+# University of London - Object Oriented Programming
